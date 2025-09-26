@@ -39,14 +39,14 @@ project/
 ## Установка и запуск
 ### 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/trasher88/borrower-reliability.git```
+git clone https://github.com/trasher88/borrower-reliability.git
 
 ### 2. Установите зависимости:
-```bash
-pip install -r requirements.txt```
+bash
+pip install -r requirements.txt
 
 ### 3. Запустите Jupyter Notebook:
-```bash
+bash
 jupyter notebook credit_scoring_analysis.ipynb```
 
 # Автор
