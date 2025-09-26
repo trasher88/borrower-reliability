@@ -16,8 +16,11 @@
 ## Структура проекта
 project/
 ├── Borrower_reliability.ipynb # Основной файл с анализом
+
 ├── data.csv # Исходные данные
+
 ├── requirements.txt # Зависимости
+
 └── README.md # Этот файл
 
 
