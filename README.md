@@ -37,15 +37,15 @@ project/
 - **SciPy** - статистические тесты
 
 ## Установка и запуск
-  1. Клонируйте репозиторий:
+### 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/trasher88/borrower-reliability.git
 
-2. Установите зависимости:
+### 2. Установите зависимости:
 ```bash
 pip install -r requirements.txt
 
-3. Запустите Jupyter Notebook:
+### 3. Запустите Jupyter Notebook:
 ```bash
 jupyter notebook credit_scoring_analysis.ipynb
 
