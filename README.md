@@ -2,6 +2,7 @@
 
 ## Стек:
 Python, Pandas, Matplotlib/Seaborn, Pymystem3
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
 
 ## Структура проекта:
 1. Загрузка и предварительный анализ данных
