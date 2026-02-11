@@ -1,8 +1,11 @@
 # Исследуем влияние семейного положения и количество детей на погашение кредитов
 
 ## Стек:
-Python, Pandas, Matplotlib/Seaborn, Pymystem3
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-green?logo=pandas&logoColor=orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-red?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-lightblue)
+![Pymystem3](https://img.shields.io/badge/PyMystem3-3.1-blue?logo=python&logoColor=violet)
 
 ## Структура проекта:
 1. Загрузка и предварительный анализ данных
